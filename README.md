@@ -11,6 +11,7 @@ A Python Flask web application containerized with Docker, tested with pytest, an
 
 ## Project Structure
 
+```text
 flask-docker-app/
 │
 ├── .github/
@@ -23,6 +24,7 @@ flask-docker-app/
 ├── docker-compose.yml          # Multi-container orchestration
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
+```
 
 
 ## How to Run Locally
